@@ -1,7 +1,9 @@
 # wp-blanktheme
 A completely BLANK WordPress "theme" to use with Oxygen Builder. After installation and activation delete all other themes. This theme will never need to be updated.
 
-**NOTE:** Since Oxygen Builder **disables** the theme, you must add functions using a plugin. Consider these options:
+**NOTE:** Since Oxygen Builder **disables** the theme, you must add functions using a plugin. 
+
+Consider these options:
 
 1. Code Snippets (https://wordpress.org/plugins/code-snippets/)
 2. Advanced Scripts (https://www.cleanplugins.com/products/advanced-scripts/)
